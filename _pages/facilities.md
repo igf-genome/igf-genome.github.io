@@ -27,5 +27,7 @@ Automate library prep and pre-sequencing workflows using tagmentation or fragmen
 
 ![image](/images/Lab1.jpg)
 
+### Skilled Lab Technicians
+
 ![image](/images/Lab2.jpg)
 
