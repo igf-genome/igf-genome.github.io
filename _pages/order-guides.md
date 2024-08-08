@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-For orders and custom service inquiries, please contact [our admin](https://wa.me/6281325981655).
+For orders and custom service inquiries, please contact [our admin](https://wa.me/6281216494090).
