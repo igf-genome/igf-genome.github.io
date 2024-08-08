@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Integrated Genome Factory"
+title: "Welcome to IGF"
 author_profile: true
 redirect_from: 
   - /about/
