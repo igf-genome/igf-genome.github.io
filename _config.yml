@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Overview"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "IGF"
 description              : &description "personal description"
 url                      : https://igf-genome.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Integrated Genome Factory"
   pronouns         : # example: "she/her"  
-  bio              : "Unit Layanan Sekuensing Genom dan Multiomik dioperasikan oleh PT DrawINA Biotech Lab"
+  bio              : "Nanopore Sequencing Service Unit operated by PT DrawINA Biotech Lab"
   location         : "Sleman, Yogyakarta"
   employer         : "Universitas Gadjah Mada"
   uri              : # URL
