@@ -1,7 +1,7 @@
 ---
 #layout: archive
 title: "Internship Program"
-permalink: /
+permalink: /internships/
 author_profile: true
 redirect_from:
   - /internships
