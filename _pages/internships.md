@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-We are opening IGF internship program batch 2.
+We are opening IGF Internship Program Batch 2.
 
 ![internship2](/images/internship2.png)
