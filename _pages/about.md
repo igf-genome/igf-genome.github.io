@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+
 The Integrative Genome Factory (IGF) provides DNA and RNA sequencing services on the Oxford Nanopore Technologies (ONT) platform. For collaborators, we perform library preparation and sequencing from a variety of biological and clinical samples for research pusposes. We also offer workshop and internship program for students and researchers who want to build competencies on ONT library preparation and related bioinformatics analysis.
 
 Why Are We Here
