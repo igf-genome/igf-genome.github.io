@@ -12,7 +12,7 @@ The Integrative Genome Factory (IGF) provides DNA and RNA sequencing services on
 
 Why Are We Here
 ======
-We aim to solve the challenge of genomics research in Indonesia. Despite the wide-ranged potential of genomics technology, we are still lacking in genomic-based projects due to limited appropriate facilities and human resources. This situation causes Indonesian researchers to use services from other country which are high in price and lack in biosample protection. IGF offers trusted, affordable and high- quality domestic sequencing services.
+We aim to solve the challenge of genomics research in Indonesia. Despite the wide-ranged potential of genomics technology, we are still lacking in genomic-based projects due to limited appropriate facilities and human resources. This situation causes Indonesian researchers to use services from other country which are high in price and lack in biosample protection. IGF offers trusted, affordable and high-quality domestic sequencing services.
  
 ![genome challenge](/images/4.png)
 
