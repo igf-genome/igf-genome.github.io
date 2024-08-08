@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Integrated Genome Factory"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Unit Layanan Sekuensing Genom dan Multiomik dioperasikan oleh PT DrawINA Biotech Lab"
+  location         : "Sleman, Yogyakarta"
+  employer         : "Universitas Gadjah Mada"
   uri              : # URL
   email            : "none@example.org" 
 
