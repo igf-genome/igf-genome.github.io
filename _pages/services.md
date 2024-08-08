@@ -1,6 +1,6 @@
 ---
 #layout: archive
-title: "IGF Services"
+title: "What We Offer"
 permalink: /services/
 author_profile: true
 redirect_from:
@@ -27,6 +27,8 @@ Custom Amplicon Sequencing
 * Minimum konsentasi amplicon  10 ng/ul dengan volume min 20 ul
 * Alignment dengan reference sequence/de novo assembly
 
+## IGF Services
+![service](/images/7.png)
 
 ## Check out current promotion
 ![promo](/images/8.png)
