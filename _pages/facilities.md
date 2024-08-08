@@ -19,14 +19,9 @@ PromethION 24
 Opentrons FLEX
 -----
 Automate library prep and pre-sequencing workflows using tagmentation or fragmentations chemistries. 
-![image](/images/opentrons.jpg)
+![image](/images/Opentrons.jpg)
 
 ### Supporting equipments
 ![image](/images/Lab1.jpg)
 ![image](/images/Lab2.jpg)
 
-#MinION
-#-----
-#* *Powerful*: Get up to 48 Gb data from a single flow cell
-#* *Portable*: Sequence anywhere, including at sample source.
-#* *Real-time data*: Immediate data streaming for rapid, actionable results.
