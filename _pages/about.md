@@ -13,8 +13,7 @@ Why Are We Here
 ======
 We aim to solve the challenge of genomics research in Indonesia. Despite the wide-ranged potential of genomics technology, we are still lacking in genomic-based projects due to limited appropriate facilities and human resources. This situation causes Indonesian researchers to use service from other country which are high in price and lack in biosample protection. IGF offers trusted, affordable and high- quality domestic sequencing services.
  
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/4.png)
+![genome challenge](/images/4.png)
 
 Our Management
 ======
