@@ -9,19 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-Full Length 16s Metabarcoding
+MinION
 -----
-* Minimum konsentasi amplicon  10 ng/ul dengan volume min 20 ul
-* Complete 16s Sequence (V1-V9)
-* Alignment with NCBI / Silva database
+* *Powerful*: Get up to 48 Gb data from a single flow cell
+* *Portable*: Sequence anywhere, including at sample source.
+* *Real-time data*: Immediate data streaming for rapid, actionable results.
 
-Whole Plasmid Validation
+PromethION
 -----
-* De novo assembly of plasmids
-* Annotation of the full assembly
-* Introduces a new large construct parameter to enable the assembly of larger plasmids and Bacterial Artificial Chromosomes
+* *On-demand sequencing*: Run up to 48 independently addressable, high-capacity PromethION Flow Cells.
+* *Ultra-high throughput*: Generate terabases of data — streamed in real time for immediate analysis.
+* *Powerful compute*: Alleviate data analysis bottlenecks.
 
-Custom Amplicon Sequencing
+Opentrons
 -----
 * Amplicon length: 500 bp - 5 Kb
 * Minimum konsentasi amplicon  10 ng/ul dengan volume min 20 ul
