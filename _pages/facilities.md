@@ -1,10 +1,10 @@
 ---
 #layout: archive
-title: "IGF Services"
-permalink: /services/
+title: "IGF Facilities"
+permalink: /facilities/
 author_profile: true
 redirect_from:
-  - /services
+  - /facilities
 ---
 
 {% include base_path %}
@@ -23,10 +23,4 @@ PromethION
 
 Opentrons
 -----
-* Amplicon length: 500 bp - 5 Kb
-* Minimum konsentasi amplicon  10 ng/ul dengan volume min 20 ul
-* Alignment dengan reference sequence/de novo assembly
-
-## Check out current promotion
-![promo](/images/8.png)
-
+Automate library prep and pre-sequencing workflows using tagmentation or fragmentations chemistries. 
