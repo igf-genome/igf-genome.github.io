@@ -14,8 +14,12 @@ Full Length 16s Metabarcoding
 * Complete 16s Sequence (V1-V9)
 * Alignment with NCBI / Silva database
 
-Whole Plasmid Validation
+Opentrons
 -----
-Automate library prep and pre-sequencing workflows using tagmentations or fragmentation chemistries.
+* Amplicon length: 500 bp - 5 Kb
+* Minimum konsentasi amplicon  10 ng/ul dengan volume min 20 ul
+* Alignment dengan reference sequence/de novo assembly
 
-#![internship2](/images/internship2.png)
+## Check out current promotion
+![promo](/images/8.png)
+
