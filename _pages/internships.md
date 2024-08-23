@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-We are opening application for IGF Internship Program Batch 2.
+Application for IGF Internship Program Batch 2 is closed.
 
 ![internship2](/images/internship2.png)
