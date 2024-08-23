@@ -11,7 +11,7 @@ redirect_from:
 
 PromethION 24
 -----
-* *On-demand sequencing*: Run up to 48 independently addressable, high-capacity PromethION Flow Cells.
+* *On-demand sequencing*: Run up to 24 independently addressable, high-capacity PromethION Flow Cells.
 * *Ultra-high throughput*: Generate terabases of data — streamed in real time for immediate analysis.
 * *Powerful compute*: Alleviate data analysis bottlenecks.
   
