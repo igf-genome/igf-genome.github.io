@@ -20,7 +20,7 @@ We aim to solve the challenge of genomics research in Indonesia. Despite the wid
 
 Our Management
 ======
-IGF is operated by PT DrawINA Biotech Lab, a start-up incubated by 2024 Prime STeP Program from Universitas Gadjah Mada. As of now, we utilize and manage the sequencing facility in Faculty of Biology UGM (2nd Floor Building B).
+IGF is by a start-up from Faculty of Biology University of Tsukuba (incubated by 2024 Prime STeP Program). The facility is located in 2nd Floor Building B, Faculty of Biology UGM.
 
 
 For more info
