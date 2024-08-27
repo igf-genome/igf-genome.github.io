@@ -2,7 +2,7 @@
 #layout: archive
 title: "What We Offer"
 permalink: /services/
-author_profile: true
+author_profile: false
 redirect_from:
   - /services
 ---
