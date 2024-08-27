@@ -2,7 +2,7 @@
 #layout: archive
 title: "IGF Workshop"
 permalink: /workshops/
-author_profile: true
+author_profile: false
 redirect_from:
   - /workshops
 ---
