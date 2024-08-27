@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Integrated Genome Factory"
   pronouns         : # example: "she/her"  
-  bio              : "Nanopore Sequencing Service Unit operated by PT DrawINA Biotech Lab"
+  bio              : "Nanopore Sequencing Service Unit"
   location         : "Sleman, Yogyakarta"
   employer         : "Universitas Gadjah Mada"
-  uri              : # URL
+  uri              : "https://igf-genome.github.io/"
   email            : "dblab.seq@gmail.com" 
 
   # Academic websites
