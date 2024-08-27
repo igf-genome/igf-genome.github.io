@@ -2,7 +2,7 @@
 #layout: archive
 title: "How to Place Order"
 permalink: /order-guides/
-author_profile: true
+author_profile: false
 redirect_from:
   - /order-guides
 ---
