@@ -20,7 +20,7 @@ We aim to solve the challenge of genomics research in Indonesia. Despite the wid
 
 Our Management
 ======
-IGF is by a start-up from Faculty of Biology University of Tsukuba (incubated by 2024 Prime STeP Program). The facility is located in 2nd Floor Building B, Faculty of Biology UGM.
+IGF is operated by a start-up from Faculty of Biology Universitas Gadjah Mada (incubated by 2024 Prime STeP Program). The facility is located in 2nd Floor Building B, Faculty of Biology UGM.
 
 
 For more info
