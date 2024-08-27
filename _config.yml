@@ -27,7 +27,7 @@ author:
   bio              : "Nanopore Sequencing Service Unit"
   location         : "Sleman, Yogyakarta"
   employer         : "Universitas Gadjah Mada"
-  uri              : "https://igf-genome.github.io/"
+  uri              : # "https://igf-genome.github.io/"
   email            : "dblab.seq@gmail.com" 
 
   # Academic websites
