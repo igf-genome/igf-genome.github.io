@@ -19,6 +19,8 @@ Metagenomic
 * Genomic DNA minimum konsentasi 50 ng/ul dengan volume min 40 ul
 * Alignment dengan standard/custom database 
 
+![service](/images/GS.png)
+
 
 Custom Sequencing Services
 ======
@@ -41,9 +43,9 @@ Custom Amplicon Sequencing
 * Minimum konsentasi amplicon  10 ng/ul dengan volume min 20 ul
 * Alignment dengan reference sequence/de novo assembly
 
-## IGF Services
-![service](/images/GS.png)
 ![service](/images/CAS.png)
+
 ![service](/images/OS.png)
+
 ![service](/images/CSS.png)
 
