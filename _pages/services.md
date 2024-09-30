@@ -1,6 +1,6 @@
 ---
 #layout: archive
-title: "What We Offer"
+title: "Genomic Sequencing"
 permalink: /services/
 author_profile: false
 redirect_from:
@@ -8,9 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-Genomic Sequencing
-======
 
 Whole Bacterial Genome
 -----
@@ -21,6 +18,7 @@ Metagenomic
 -----
 * Genomic DNA minimum konsentasi 50 ng/ul dengan volume min 40 ul
 * Alignment dengan standard/custom database 
+
 
 Custom Sequencing Services
 ======
