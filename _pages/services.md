@@ -9,6 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
+Genomic Sequencing
+======
+
+Whole Bacterial Genome
+-----
+* High Molecular Weight (HMW) DNA minimum  konsentasi  85 ng/ul dengan volume min 40 ul
+* Alignment dengan reference sequence/de novo assembly
+
+Metagenomic
+-----
+* Genomic DNA minimum konsentasi 50 ng/ul dengan volume min 40 ul
+* Alignment dengan standard/custom database 
+
+Custom Sequencing Services
+======
+
 Full Length 16s Metabarcoding
 -----
 * Minimum konsentasi amplicon  10 ng/ul dengan volume min 20 ul
@@ -28,8 +44,8 @@ Custom Amplicon Sequencing
 * Alignment dengan reference sequence/de novo assembly
 
 ## IGF Services
-![service](/images/7.png)
-
-## Check out current promotion
-![promo](/images/8.png)
+![service](/images/GS.png)
+![service](/images/CAS.png)
+![service](/images/OS.png)
+![service](/images/CSS.png)
 
